@@ -1,0 +1,13 @@
+body {
+  background: url('../images/bg-ch2-gray.jpg') center center / cover fixed no-repeat;
+  color: #1c1c1c;
+}
+main {
+  background-color: rgba(248, 248, 248, 0.9);
+}
+header, footer {
+  background-color: rgba(235, 235, 235, 0.75);
+}
+h2 {
+  border-color: #999;
+}

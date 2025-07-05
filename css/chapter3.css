@@ -1,0 +1,18 @@
+body {
+  background: url('../images/bg-ch3-fire.jpg') center center / cover fixed no-repeat;
+  color: #2d1a16;
+}
+main {
+  background-color: rgba(255, 240, 230, 0.85);
+}
+header, footer {
+  background-color: rgba(80, 40, 30, 0.6);
+  color: #f9f1e9;
+}
+h2 {
+  border-color: #a66;
+  color: #5a2c2c;
+}
+nav a {
+  color: #f9f1e9;
+}

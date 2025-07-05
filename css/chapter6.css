@@ -1,0 +1,17 @@
+body {
+  background: url('../images/bg-ch6-war.jpg') center center / cover fixed no-repeat;
+  color: #ddd;
+}
+main {
+  background-color: rgba(40, 20, 20, 0.85);
+}
+header, footer {
+  background-color: rgba(30, 15, 15, 0.7);
+}
+h2 {
+  border-color: #822;
+  color: #f0dada;
+}
+nav a {
+  color: #f0dada;
+}
